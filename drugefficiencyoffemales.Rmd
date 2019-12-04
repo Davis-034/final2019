@@ -60,7 +60,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-The numerical results shows that the drug seems to be effective at preventing aids for females. About 31% of females who took the drug got aids and about 68% of females who took the placebo got aids, that means that the drug was effective at preventing aids for females since the percentage of those who took the drug and got aids is low. 
+The numerical results shows that the drug seems to be effective at preventing aids for females. About 31% of females who took the drug got aids and about 68% of females who took the placebo got aids, that means that the drug was effective at preventing aids for females since the percentage of those who took the drug and got aids is low.
 
 ## Inferential Results
 
